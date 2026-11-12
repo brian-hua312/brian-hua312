@@ -1,23 +1,25 @@
-# Hi, I'm Brian Hua 👋
+# Brian Hua 🌿
 
-**Business & Data Analytics | Business Intelligence | Exploring Product & Project Management**
+**`Business & Data Analytics | Business Intelligence | Exploring Product & Project Management`** 
 
-I'm an Information & Decision Sciences student at the **University of Illinois Chicago**, with a focus on business analytics. I enjoy exploring data, finding patterns, and translating analytical results into insights that help people make better decisions.
+## About Me
+- I explore, build, and turn data into meaningful business outcomes.
+- Analyzed 1M+ records and improved SQL query performance by 35%.
+- Built Agile product requirements and presented solutions to 100+ stakeholders.
 
-My work spans **data visualization, statistical analysis, data mining, and machine learning**. I'm also interested in how analytics supports product decisions, operational improvements, and effective project delivery.
+## Technical Skills and Tools
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,mysql,postgres,r,js,vscode,&theme=light)](https://skillicons.dev)
 
-📍 Chicago, IL  
-🔗 [LinkedIn](https://www.linkedin.com/in/brianhua03/) · [GitHub](https://github.com/brianhua-312) · [Email](mailto:bhua3017@gmail.com)
-
-## Technical Skills
 
 | Area | Tools & Techniques |
 | --- | --- |
-| **Programming & Analytics** | Python, SQL, R, Excel |
-| **Visualization & Business Intelligence** | Tableau, Power BI, Adobe Analytics |
-| **Data Mining & Machine Learning** | K-Means Clustering, K-Nearest Neighbors (KNN), Naive Bayes, Decision Trees, Logistic Regression, Regression, Classification |
-| **Statistics** | Hypothesis Testing, Exploratory Data Analysis, Model Evaluation |
-| **Project & Collaboration Tools** | Agile practices, Jira, Cross-functional Collaboration |
+| **Programming & Data Analysis** | Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL (BigQuery, PostgreSQL), R, Excel |
+| **Business Intelligence & Visualization** | Tableau, Power BI, Adobe Analytics |
+| **Machine Learning & Data Mining** | K-Means Clustering, K-Nearest Neighbors (KNN), Naive Bayes, Decision Trees, Logistic Regression |
+| **Statistics & Modeling** | Regression Analysis, Hypothesis Testing, Exploratory Data Analysis (EDA), Model Evaluation |
+| **Product & Project Management** | Agile Methodologies, Jira, User Stories, Stakeholder Collaboration |
 
 ## Featured Work
 
