@@ -17,7 +17,7 @@
 | --- | --- |
 | **Programming & Data Analysis** | Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL (BigQuery, PostgreSQL), R, Excel |
 | **Business Intelligence & Visualization** | Tableau, Power BI, Adobe Analytics |
-| **Machine Learning & Data Mining** | K-Means Clustering, K-Nearest Neighbors (KNN), Naive Bayes, Decision Trees, Logistic Regression |
+| **Machine Learning & Data Mining** | K-Means Clustering, K-Nearest Neighbors (KNN), Naive Bayes, Decision Trees, Logistic Regression, Random Forest, XGBoost, Neural Networks |
 | **Statistics & Modeling** | Regression Analysis, Hypothesis Testing, Exploratory Data Analysis (EDA), Model Evaluation |
 | **Product & Project Management** | Agile Methodologies, Jira, User Stories, Stakeholder Collaboration |
 
@@ -30,18 +30,13 @@ I used Tableau to examine **1,445,294 reported Chicago crime incidents** from 20
 I also created separate validation worksheets to check the published counts and calculations. The repository includes the findings, data limitations, screenshots, Tableau Public links, and a downloadable packaged workbook.
 
 
-### 🐍 Python Data Mining & Machine Learning Coursework
+### 🐍 [Business Data Mining](https://github.com/brian-hua312/Business-Data-Mining) | Python & Machine Learning
 
-A collection of Python assignments applying analytical and machine learning methods to structured datasets. Topics covered include:
+I used Python and Google Colab to complete seven coursework assignments covering data preparation, classification, regression, ensemble learning, and neural networks.
 
-- **Classification:** K-Nearest Neighbors, Naive Bayes, Decision Trees, Logistic Regression, and other classification approaches
-- **Clustering:** K-Means
-- **Regression:** Modeling relationships between variables
-- **Statistical analysis:** Hypothesis testing and interpretation of results
+For my final project, I analyzed **7,043 telecom customers** to predict churn using Logistic Regression, Random Forest, and XGBoost. I examined customer characteristics, service usage, and billing patterns to understand factors associated with customer churn.
 
-**Focus:** Data Preparation · Modeling · Evaluation · Interpretation
-
-*Status: Organizing notebooks and documentation for publication.*
+The repository includes my completed notebooks, assignment instructions, datasets, and a final report discussing model performance and customer retention findings.
 
 ## What I'm Exploring
 
