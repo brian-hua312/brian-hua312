@@ -3,9 +3,9 @@
 **`Business & Data Analytics | Business Intelligence | Exploring Product & Project Management`** 
 
 ## About Me
-- I explore, build, and turn data into meaningful business outcomes.
-- Analyzed 1M+ records and improved SQL query performance by 35%.
-- Built Agile product requirements and presented solutions to 100+ stakeholders.
+- I use data analysis and visualization to examine trends, compare results, and explain what the findings mean.
+- My Chicago crime analysis covers 1,445,294 reported incidents from 2012 through 2016.
+- I'm interested in combining analytics with business and product decisions.
 
 ## Technical Skills and Tools
 <!-- Skill icons provided by skill-icons. Full icon list and names:
@@ -23,13 +23,14 @@
 
 ## Featured Work
 
-### 📊 Chicago Crime Data Analysis | Tableau
+### 📊 [Chicago Crime Analytics (2012–2016)](https://github.com/brian-hua312/Chicago-Crime-Visuals) | Tableau
 
-Explored **1M+ Chicago crime records (2012–2017)** to examine trends across time, crime categories, geographic areas, and arrest outcomes. Built visualizations to make a large public dataset easier to explore and interpret.
+I used Tableau to examine **1,445,294 reported Chicago crime incidents** from 2012 through 2016. I built **3 dashboards and 8 individual worksheets** to compare crime categories, monthly trends, location types, police districts, and arrest outcomes.
 
-**Focus:** Exploratory Data Analysis · Data Visualization · Geographic & Temporal Patterns
+I also created separate validation worksheets to check the published counts and calculations. The repository includes the findings, data limitations, screenshots, Tableau Public links, and a downloadable packaged workbook.
 
-*Status: Revisiting and improving the project before publishing it here.*
+**Tools:** Tableau, Tableau Public  
+**Project:** [GitHub repository](https://github.com/brian-hua312/Chicago-Crime-Visuals) · [Interactive dashboard](https://public.tableau.com/app/profile/brian.hua1739/viz/Chicago_Crime_Analytics_Dashboard_Label_Fixes/01CrimeOverview)
 
 ### 🐍 Python Data Mining & Machine Learning Coursework
 
@@ -62,4 +63,4 @@ I'm always interested in connecting with people working on data-driven products,
 
 ---
 
-*This portfolio is a work in progress. Featured repositories will be linked as projects are reviewed and published.*
+*I'm continuing to review and document my other projects as I add them to this portfolio.*
