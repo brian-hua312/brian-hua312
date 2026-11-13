@@ -29,8 +29,6 @@ I used Tableau to examine **1,445,294 reported Chicago crime incidents** from 20
 
 I also created separate validation worksheets to check the published counts and calculations. The repository includes the findings, data limitations, screenshots, Tableau Public links, and a downloadable packaged workbook.
 
-**Tools:** Tableau, Tableau Public  
-**Project:** [GitHub repository](https://github.com/brian-hua312/Chicago-Crime-Visuals) · [Interactive dashboard](https://public.tableau.com/app/profile/brian.hua1739/viz/Chicago_Crime_Analytics_Dashboard_Label_Fixes/01CrimeOverview)
 
 ### 🐍 Python Data Mining & Machine Learning Coursework
 
