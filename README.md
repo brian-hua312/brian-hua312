@@ -16,9 +16,9 @@
 | Area | Tools & Techniques |
 | --- | --- |
 | **Programming & Data Analysis** | Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL (BigQuery, PostgreSQL), R, Excel |
-| **Business Intelligence & Visualization** | Tableau, Power BI, Adobe Analytics |
-| **Machine Learning & Data Mining** | K-Means Clustering, K-Nearest Neighbors (KNN), Naive Bayes, Decision Trees, Logistic Regression, Random Forest, XGBoost, Neural Networks |
-| **Statistics & Modeling** | Regression Analysis, Hypothesis Testing, Exploratory Data Analysis (EDA), Model Evaluation |
+| **Business Intelligence & Visualization** | Tableau, Power BI, Adobe Analytics, Dashboard Development, Data Validation |
+| **Machine Learning & Data Mining** | K-Means Clustering, K-Nearest Neighbors (KNN), Naive Bayes, Decision Trees, Logistic Regression, Random Forest, XGBoost, Neural Networks, |
+| **Statistics & Modeling** | Regression Analysis, Hypothesis Testing, Exploratory Data Analysis (EDA), Model Evaluation, Cross Validation, Hyperparameter Tuning |
 | **Product & Project Management** | Agile Methodologies, Jira, User Stories, Stakeholder Collaboration |
 
 ## Featured Work
